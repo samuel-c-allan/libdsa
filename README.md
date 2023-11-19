@@ -16,6 +16,10 @@ If you wish to build with unit tests:
 
 `cd bin && cmake -D ENABLE_TESTING=ON ..`
 
+To run unit tests go to the directory with the binaries and run:
+
+`cd tests && ctest`
+
 # How may I collaborate?
 
 If you see algorithms implemented in generally inefficient ways or wish to make the test cases better,
