@@ -1,0 +1,4 @@
+#define DSA_VERSION_MAJOR 1
+#define DSA_VERSION_MINOR 0
+
+
